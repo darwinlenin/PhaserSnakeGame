@@ -6,5 +6,8 @@ This is the solution to HackerRank Challenge where I have implemented a classic 
 
 The description of code of the all logic of the game is in the js folder.
 
-Videogame is live and hosted in zoegeop and heroku in the following url:
+Videogame is live and hosted in zoegeop and heroku in the followings urls:
+
 https://www.zoegeop.com/phaser-snake-game/
+
+https://polar-tor-85813.herokuapp.com/
